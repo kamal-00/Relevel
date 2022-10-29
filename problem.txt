@@ -1,0 +1,43 @@
+const fruits = ["Apple", "Banana", "Orange"];
+for(x of fruits){
+  console.log(x);
+}
+
+let num = 0;
+    switch(true){
+        case (num<0):
+            text = "Negative";
+            break;
+        case (num==0):
+            text = "Zero";
+            break;
+        case (num>0):
+            text = "Positive";
+            break;
+        default:
+            text = "No Value";
+        }
+console.log(text);
+why it is not working when we write switch(num){} in second line.
+
+
+Write a program to find the second largest among three of them.
+We have three numbers as input A, B and C. Write a program to find the second largest among three of them.
+Input
+The first line contains an integer T, the total number of testcases. Then T lines follow, each line contains three integers A, B and C.
+Output
+For each test case, display the second largest among A, B and C, in a new line.
+Constraints
+1 ≤ T ≤ 1000
+1 ≤ A,B,C ≤ 1000000
+Example
+Sample Input
+3
+140 110 400
+103 312 10
+10 3 45
+Sample Output
+140
+103
+10
+ 

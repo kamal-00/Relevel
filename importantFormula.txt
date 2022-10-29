@@ -1,0 +1,31 @@
+Number.isInteger(num/2)=>to check if result is integer or not.
+
+The getDay() method returns the weekday as a number between 0 and 6.
+(Sunday=0, Monday=1, Tuesday=2 ..)
+
+const fruits = ["Apple", "Banana", "Orange"];
+for(x of fruits){
+  console.log(x); //result- Apple, Banana, Orange
+}
+
+Object.assign({}, obj); //method used to copy value from source to target. here source is obj and target is {}.
+
+var input = ['h','e','l','l','o'];
+input.join('');  //'hello'
+
+const array = [4,2,8,6,1,3];
+console.log(array.slice(1,4)); //1 is index place 4 is array length position. result-[2,8,6];
+//copy of array for the given parameters.
+
+var a = [1,2,4,5,6, 7];
+console.log(a.splice(0,4));  //[1,2,4,5]  //edit the original array.
+console.log(a);  //[6,7]
+
+String comparision - arr[j].localeCompare(arr[j+1])
+if string is sorted then the above comparision gives -1 as result.
+
+const finalArray = [...array, ...array2]; //to merge to array.
+
+let array = [5,9,4,7,6,5,3,0,9,4,2,0];
+array = [...new Set(array)]; //[5, 9, 4, 7, 6, 3, 0, 2]
+console.log(array);

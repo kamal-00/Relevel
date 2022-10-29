@@ -1,0 +1,5 @@
+while comparing your two program 'sum of column' and 'triangle sum'.
+my confusion is:-
+In sum of column problem, we have taken let sum = 0; inside outer loop, it gives result.
+But when we do the same thing in triangle sum problem i.e. let lowerTriangleSum = 0
+let upperTriangleSum = 0; inside outer loop then it shows error-lowerTriangleSum is not defined.
