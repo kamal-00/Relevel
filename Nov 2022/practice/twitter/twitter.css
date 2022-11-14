@@ -1,0 +1,9 @@
+body{
+    /* vh => viewport height*/
+    height: 100vh;
+}
+
+.row{
+    background-color: black;
+    height: 100%;
+}

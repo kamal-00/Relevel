@@ -1,0 +1,144 @@
+How to create an instance of a class?
+Using classes.
+Using functions.
+Using references.
+Using the new keyword.
+
+
+A class is a blueprint for creating objects.
+
+
+What does this refer to?
+
+
+What does the prototype help with?
+Inheriting object’s properties.
+
+
+Can we use “this” keyword in the child class constructor without using “super” keyword?
+
+
+What is the implicit return type of constructor?
+
+
+Which of the following is correct about JavaScript?
+
+
+Which is not a feature of OOP in general definitions?
+Duplicate/Redundant data
+
+
+Which feature of OOP indicates code reusability?
+Inheritance
+
+
+Which among the following doesn’t come under OOP concept?
+Platform independent
+
+
+The feature by which one object can interact with another object is _____________
+message passing feature
+
+
+Which among the following, for a pure OOP language, is true?
+The language must follow all the rules of OOP
+
+
+What is encapsulation in OOP?
+It is a way of combining various data members and member functions that operate on those data members into a single unit
+
+
+What is an abstraction in object-oriented programming?
+Hiding the implementation and showing only the features
+
+
+The first thing to enter in the Call Stack is _________.
+
+
+clearInterval() clears the time interval in the setInterval().
+
+
+Timing events in JS are part of ___________.
+
+
+Call Stack works in a ________ manner.
+Last in First Out
+
+
+Which of the following method is used to get value from generator-iterator objects in JavaScript?
+next
+
+
+Promise.all is rejected if any of the elements are rejected.
+true
+
+
+What is the state of a successful promise operation?
+Fulfilled
+
+
+What does the following code log? [10, 50, 88].filter(function(n) { return n > 10; });
+
+
+How to access the property ‘first-name’ of the object obj = {“first-name”: “John”,” last-name”: “Doe”} ?
+
+
+How to convert a JavaScript object to a JSON?
+
+
+The unordered collection of properties, each of which has a name and a value is called _________
+
+
+In the following syntax, the data type within the square brackets must be ___________
+
+
+The primary purpose of the array map() function is that it __________
+
+
+What are the closures?
+
+
+A …………………. is a function that operates on functions, taking one or more functions as arguments, and returning a new function.
+Higher order function
+
+
+What is the fundamental rule of lexical scoping?
+
+
+Variable name within a function is an example of ___________ Variable
+
+
+Which statement is required if you want to return a value from a function?
+
+
+Which object is the top of the hierarchy?
+
+
+Is JavaScript an Object-Oriented Language after ES 6 class introduction?
+
+
+Which of the following statements defines JavaScript correctly?
+Options
+JavaScript is a scripting language which makes the website interactive
+JavaScript is an assembly language used to make the website interactive
+JavaScript is a compiled language used to make the website interactive
+None of the above
+
+
+Which is a fast C++ based JavaScript interpreter?
+Node
+
+
+Which of the following is not true about polymorphism?
+
+
+
+How to create an instance of a class?
+
+
+Pick the correct one:
+Options
+A class is a blueprint for creating objects.
+A class is a data structure.
+An object is structured like an array.
+JavaScript is a statically typed language.
